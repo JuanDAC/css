@@ -15,7 +15,7 @@ body
 }
 :root
 {
-    --wh:calc(calc(1vw + 1vh) / 2);
+    --wh:calc(calc(1vw + 1vh) / 3);
 }
 .canvasJuego {
     background: #3fbfff;
